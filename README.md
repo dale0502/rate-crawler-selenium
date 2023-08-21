@@ -2,6 +2,10 @@
 
 This is minimum demo of headless chrome and selenium on container image on AWS Lambda
 
+#### 本專案使用 docker-selenium-lambda 工具
+https://github.com/umihico/docker-selenium-lambda
+
+
 This image goes with these versions. [These are automatically updated and tested everyday.](https://github.com/umihico/docker-selenium-lambda/actions)
 
 - Python 3.11.4
